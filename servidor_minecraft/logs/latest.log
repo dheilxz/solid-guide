@@ -173,3 +173,9 @@
 [22Dec2024 11:25:56.305] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 65082 ms
 [22Dec2024 11:25:56.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (81.359s)! For help, type "help"
 [22Dec2024 11:25:56.335] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Dec2024 11:38:33.298] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5bc6867a[id=<null>,name=Yanlx,properties={},legacy=false] (/[::1]:55660) lost connection: Timed out
+[22Dec2024 11:39:12.437] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3861d776[id=<null>,name=Yanlx,properties={},legacy=false] (/[::1]:47474) lost connection: Timed out
+[22Dec2024 11:39:51.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yanlx[/[::1]:56850] logged in with entity id 336 at (9.5, 76.0, -6.5)
+[22Dec2024 11:39:52.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yanlx joined the game
+[22Dec2024 11:41:22.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanlx lost connection: Timed out
+[22Dec2024 11:41:22.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yanlx left the game
